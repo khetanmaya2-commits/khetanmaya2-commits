@@ -61,14 +61,6 @@
 
 ---
 
-### 📂 Mini Google Drive
-- React
-- FastAPI
-- AWS S3 Storage
-- Secure File Upload & Download
-
----
-
 ## 📚 Currently Learning
 
 - Kubernetes
@@ -80,19 +72,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maya-khetan1827)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:khetanmaya2@gmail.com)
 
 ---
 ⭐ Thanks for visiting my profile!
